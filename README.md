@@ -23,3 +23,5 @@ https://docs.espressif.com/projects/esp-idf/en/release-v4.4/esp32/api-reference/
 
 A detailed description of the pulse counter hardware is available in Chapter 17 of the Technical Reference Manual :
 https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
+
+I am currently experiencing issues with this library when using within PlatformIO/Arduino framework, specifically with the "pcnt_isr_service_install(0)" function, which fails to initialise, so my development progress is on hold.
