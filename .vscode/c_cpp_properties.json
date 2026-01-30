@@ -10,6 +10,7 @@
             "includePath": [
                 "/home/alan/PlatformIO/Projects/Development/ESP32/ESP32PulseCounter/include",
                 "/home/alan/PlatformIO/Projects/Development/ESP32/ESP32PulseCounter/src",
+                "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -225,7 +226,6 @@
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
-                "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
@@ -240,6 +240,7 @@
                 "path": [
                     "/home/alan/PlatformIO/Projects/Development/ESP32/ESP32PulseCounter/include",
                     "/home/alan/PlatformIO/Projects/Development/ESP32/ESP32PulseCounter/src",
+                    "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -455,7 +456,6 @@
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
-                    "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "/home/alan/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
